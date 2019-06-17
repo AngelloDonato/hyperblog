@@ -6,3 +6,5 @@ Si tienen dos papas modificados, pueden agregar cada uno a un commit agregando e
 No sé qué tan buena práctica sea.
 
 Soy una nueva linea
+
+Este solo es para eliminar
