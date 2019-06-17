@@ -1,0 +1,6 @@
+Respuesta a:
+Crea un repositorio de Git y haz tu primer commit
+Comparto este conocimiento que adquirí mientras experimentaba:
+Si tienen dos archivos modificados, pueden agregar cada uno a un commit agregando el nombre del archivo.
+
+No sé qué tan buena práctica sea.
