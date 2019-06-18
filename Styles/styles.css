@@ -11,3 +11,10 @@ body{
     width: 70%;
     margin: 0 auto;
 }
+
+#cabecera{
+    background-color: blueviolet;
+    color: blue;
+    padding: 25%;
+    
+}
